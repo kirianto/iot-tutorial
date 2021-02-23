@@ -18,5 +18,5 @@ For example:
 - then, led2 and led4 is on for one second and off for one second.
 - then, it goes back to odd leds and even leds to be on and off in round robin fashion.
 
-## Task 2
+## Task 3
 Write a code based on the schematic-blink-2.png. There are led and push button. When button is pushed, the led will be on.
